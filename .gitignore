@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+runs/
+runs_problem_4/
+ppo_runs/
+offline_training*/
+offline_models/
+*.log
